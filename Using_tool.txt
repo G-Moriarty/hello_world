@@ -1,2 +1,4 @@
 1. Postman
    模拟浏览器，发送post，get请求。
+2. DuckCapture
+   开源的截图工具，可以滚动截屏。
