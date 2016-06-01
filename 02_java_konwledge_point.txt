@@ -1,0 +1,7 @@
+项目中，肯能会用的第三方的jar包的记录
+
+1. Apache 的 httpClient ,用于发送get,post请求用的。
+
+2. Guava (未看，待补充)
+
+3. JMockit (未看，待补充)
