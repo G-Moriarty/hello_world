@@ -1,4 +1,4 @@
-# hello_world
+# knowledge_recording
 
 收集一些有用的资料或常用的工具。
 
