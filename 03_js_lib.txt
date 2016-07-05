@@ -1,2 +1,2 @@
-1. Vue.js 数据驱动的组件</br>
+1. Vue.js 数据驱动的组件
    https://vuejs.org.cn/
