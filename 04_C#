@@ -1,0 +1,6 @@
+1. vs 中工程创建的问题
+   创建一个solution，solution中只能创建工程，还可以导入其它工程，包括其它solution中的工程。
+   比如导入过来的common，core，之类的公用的工程。
+   这些工程可以分布在不同的solution中，编辑不同的solution，就可以打开不同的不同solution下的工程进行编辑。
+   工程与工程之间的关系在一个solution中添加就行了。
+   依赖关系，主要靠导入。
