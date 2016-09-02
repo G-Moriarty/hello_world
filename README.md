@@ -8,5 +8,5 @@
 文件:</br>
 01_using_tool.txt            -->  常用的工具，做一些简单的记录</br>
 02_java_konwledge_point.txt  -->  项目中，肯能会用的第三方的jar包的记录</br>
-03_js_lib.txt                -->  项目中，有用到的一些js的组件或框架
+03_js_lib.txt                -->  项目中，有用到的一些js的组件或框架</br>
 04_C#_knowledge              -->  C#相关的记录
